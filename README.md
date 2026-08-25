@@ -90,8 +90,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [Gemma 4 31B Instruct](https://openrouter.ai/google/gemma-4-31b-it:free)
 
-- [NVIDIA Nemotron 3 Nano 30B A3B](https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b:free)
-
 - [NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free)
 
 - [NVIDIA Nemotron 3 Super 120B A12B](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free)
@@ -99,10 +97,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
 - [NVIDIA Nemotron 3.5 Content Safety](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free)
-
-- [NVIDIA Nemotron Nano 12B v2 VL](https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl:free)
-
-- [NVIDIA Nemotron Nano 9B v2](https://openrouter.ai/nvidia/nemotron-nano-9b-v2:free)
 
 - [Poolside Laguna S 2.1](https://openrouter.ai/poolside/laguna-s-2.1:free)
 
