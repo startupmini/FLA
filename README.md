@@ -106,6 +106,10 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
+- [minimax/minimax-m2.7:free](https://openrouter.ai/minimax/minimax-m2.7:free)
+
+- [minimax/minimax-m3:free](https://openrouter.ai/minimax/minimax-m3:free)
+
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
 - [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
@@ -241,6 +245,10 @@ Ubah src/README_template.md atau skrip generator-nya.
 - liquid/lfm-2.5-2.6b:free
 
 - meituan/longcat-2.0-free
+
+- minimax/minimax-m2.7:free
+
+- minimax/minimax-m3:free
 
 - nvidia/nemotron-3.5-lightning:free
 

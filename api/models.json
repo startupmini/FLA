@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:26:21.078998Z",
+  "generated_at": "2026-08-26T01:37:09.883097Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -98,6 +98,24 @@
         {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "minimax/minimax-m2.7:free",
+          "name": "minimax/minimax-m2.7:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "minimax/minimax-m3:free",
+          "name": "minimax/minimax-m3:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -250,6 +268,16 @@
         {
           "id": "meituan/longcat-2.0-free",
           "name": "meituan/longcat-2.0-free",
+          "intelligence_score": null
+        },
+        {
+          "id": "minimax/minimax-m2.7:free",
+          "name": "minimax/minimax-m2.7:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "minimax/minimax-m3:free",
+          "name": "minimax/minimax-m3:free",
           "intelligence_score": null
         },
         {
