@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T04:40:45.696073Z",
+  "generated_at": "2026-09-01T04:21:22.194031Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -297,11 +297,6 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "tencent/hy3:free",
-          "name": "tencent/hy3:free",
           "intelligence_score": null
         },
         {

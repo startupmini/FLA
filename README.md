@@ -256,8 +256,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-lightning:free
 
-- tencent/hy3:free
-
 - thinkingmachines/inkling-small:free
 
 - thinkingmachines/inkling:free
