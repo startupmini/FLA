@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T03:44:29.143941Z",
+  "generated_at": "2026-09-03T03:42:53.277072Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -277,11 +277,6 @@
         {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "meituan/longcat-2.0-free",
-          "name": "meituan/longcat-2.0-free",
           "intelligence_score": null
         },
         {

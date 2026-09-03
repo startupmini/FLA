@@ -248,8 +248,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - liquid/lfm-2.5-2.6b:free
 
-- meituan/longcat-2.0-free
-
 - minimax/minimax-m2.7:free
 
 - minimax/minimax-m3:free
