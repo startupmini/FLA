@@ -106,6 +106,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [inclusionai/ling-3.0-flash-fin:free](https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free)
 
+- [inclusionai/ling-3.0-flash-sante:free](https://openrouter.ai/inclusionai/ling-3.0-flash-sante:free)
+
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
 - [minimax/minimax-m2.7:free](https://openrouter.ai/minimax/minimax-m2.7:free)
@@ -245,6 +247,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - dots-studio/dots-3-note-preview:free
 
 - inclusionai/ling-3.0-flash-fin:free
+
+- inclusionai/ling-3.0-flash-sante:free
 
 - liquid/lfm-2.5-2.6b:free
 
