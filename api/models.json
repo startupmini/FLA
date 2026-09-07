@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T03:46:59.644080Z",
+  "generated_at": "2026-09-07T03:45:49.336346Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -161,15 +161,6 @@
         {
           "id": "thinkingmachines/inkling:free",
           "name": "thinkingmachines/inkling:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "z-ai/glm-5.2:free",
-          "name": "z-ai/glm-5.2:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50

@@ -120,8 +120,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
 
-- [z-ai/glm-5.2:free](https://openrouter.ai/z-ai/glm-5.2:free)
-
 
 
 ### [Google AI Studio](https://aistudio.google.com)
