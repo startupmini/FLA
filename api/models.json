@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T03:50:28.692456Z",
+  "generated_at": "2026-09-09T03:55:23.728017Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -116,6 +116,24 @@
         {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "nex-agi/nex-n2.5-mini:free",
+          "name": "nex-agi/nex-n2.5-mini:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "nex-agi/nex-n2.5-pro:free",
+          "name": "nex-agi/nex-n2.5-pro:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -264,6 +282,16 @@
         {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "nex-agi/nex-n2.5-mini:free",
+          "name": "nex-agi/nex-n2.5-mini:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "nex-agi/nex-n2.5-pro:free",
+          "name": "nex-agi/nex-n2.5-pro:free",
           "intelligence_score": null
         },
         {
