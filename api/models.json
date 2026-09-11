@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T03:54:20.632556Z",
+  "generated_at": "2026-09-11T03:50:28.760464Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -107,6 +107,15 @@
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
           "name": "inclusionai/ling-3.0-flash-sante:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "inclusionai/ling-3.0-flash-vl:free",
+          "name": "inclusionai/ling-3.0-flash-vl:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -277,6 +286,11 @@
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
           "name": "inclusionai/ling-3.0-flash-sante:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "inclusionai/ling-3.0-flash-vl:free",
+          "name": "inclusionai/ling-3.0-flash-vl:free",
           "intelligence_score": null
         },
         {
