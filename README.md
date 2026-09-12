@@ -262,8 +262,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - thinkingmachines/inkling-small:free
 
-- thinkingmachines/inkling:free
-
 
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)

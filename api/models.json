@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:50:28.760464Z",
+  "generated_at": "2026-09-12T03:53:39.775028Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -316,11 +316,6 @@
         {
           "id": "thinkingmachines/inkling-small:free",
           "name": "thinkingmachines/inkling-small:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "thinkingmachines/inkling:free",
-          "name": "thinkingmachines/inkling:free",
           "intelligence_score": null
         }
       ]
