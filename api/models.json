@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T04:10:28.693220Z",
+  "generated_at": "2026-09-15T04:09:33.077725Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -793,7 +793,10 @@
         {
           "id": "qwen/qwen3.8-27b",
           "name": "qwen/qwen3.8-27b",
-          "limits": {},
+          "limits": {
+            "requests/day": 1000,
+            "tokens/minute": 8000
+          },
           "intelligence_score": null
         }
       ]
