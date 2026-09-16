@@ -122,6 +122,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
 
+- [z-ai/glm-5.2:free](https://openrouter.ai/z-ai/glm-5.2:free)
+
 
 
 ### [Google AI Studio](https://aistudio.google.com)
@@ -262,6 +264,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - thinkingmachines/inkling-small:free
 
+- z-ai/glm-5.2:free
+
 
 
 ### [OpenCode Zen](https://opencode.ai/docs/zen/)
@@ -332,8 +336,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 <tr><td>openai/gpt-oss-20b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
 
 <tr><td>openai/gpt-oss-safeguard-20b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
-
-<tr><td>qwen/qwen3.6-27b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
 
 <tr><td>qwen/qwen3.8-27b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:09:33.077725Z",
+  "generated_at": "2026-09-16T04:05:56.119234Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -175,6 +175,15 @@
             "requests/day": 50
           },
           "intelligence_score": null
+        },
+        {
+          "id": "z-ai/glm-5.2:free",
+          "name": "z-ai/glm-5.2:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
         }
       ]
     },
@@ -316,6 +325,11 @@
         {
           "id": "thinkingmachines/inkling-small:free",
           "name": "thinkingmachines/inkling-small:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "z-ai/glm-5.2:free",
+          "name": "z-ai/glm-5.2:free",
           "intelligence_score": null
         }
       ]
@@ -775,15 +789,6 @@
         {
           "id": "openai/gpt-oss-safeguard-20b",
           "name": "openai/gpt-oss-safeguard-20b",
-          "limits": {
-            "requests/day": 1000,
-            "tokens/minute": 8000
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "qwen/qwen3.6-27b",
-          "name": "qwen/qwen3.6-27b",
           "limits": {
             "requests/day": 1000,
             "tokens/minute": 8000
