@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:05:56.119234Z",
+  "generated_at": "2026-09-17T04:13:05.270003Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -320,6 +320,11 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "stealth/union-alpha",
+          "name": "stealth/union-alpha",
           "intelligence_score": null
         },
         {

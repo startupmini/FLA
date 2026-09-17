@@ -262,6 +262,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-lightning:free
 
+- stealth/union-alpha
+
 - thinkingmachines/inkling-small:free
 
 - z-ai/glm-5.2:free
