@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T04:13:05.270003Z",
+  "generated_at": "2026-09-18T03:57:42.382206Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -87,6 +87,15 @@
           "intelligence_score": null
         },
         {
+          "id": "deepseek/deepseek-v4-flash-0731:free",
+          "name": "deepseek/deepseek-v4-flash-0731:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
           "limits": {
@@ -152,6 +161,15 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "qwen/qwen3.8-27b:free",
+          "name": "qwen/qwen3.8-27b:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -283,6 +301,11 @@
           "intelligence_score": null
         },
         {
+          "id": "deepseek/deepseek-v4-flash-0731:free",
+          "name": "deepseek/deepseek-v4-flash-0731:free",
+          "intelligence_score": null
+        },
+        {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
           "intelligence_score": null
@@ -323,8 +346,8 @@
           "intelligence_score": null
         },
         {
-          "id": "stealth/union-alpha",
-          "name": "stealth/union-alpha",
+          "id": "qwen/qwen3.8-27b:free",
+          "name": "qwen/qwen3.8-27b:free",
           "intelligence_score": null
         },
         {
@@ -416,6 +439,11 @@
         {
           "id": "qwen3.6-35b-a3b",
           "name": "qwen3.6-35b-a3b",
+          "intelligence_score": null
+        },
+        {
+          "id": "qwen3.8-27b",
+          "name": "qwen3.8-27b",
           "intelligence_score": null
         }
       ]

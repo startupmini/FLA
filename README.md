@@ -102,6 +102,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [Poolside Laguna XS 2.1](https://openrouter.ai/poolside/laguna-xs-2.1:free)
 
+- [deepseek/deepseek-v4-flash-0731:free](https://openrouter.ai/deepseek/deepseek-v4-flash-0731:free)
+
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [inclusionai/ling-3.0-flash-fin:free](https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free)
@@ -117,6 +119,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - [nex-agi/nex-n2.5-pro:free](https://openrouter.ai/nex-agi/nex-n2.5-pro:free)
 
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
+
+- [qwen/qwen3.8-27b:free](https://openrouter.ai/qwen/qwen3.8-27b:free)
 
 - [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
 
@@ -246,6 +250,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - StepFun Step 3.7 Flash
 
+- deepseek/deepseek-v4-flash-0731:free
+
 - dots-studio/dots-3-note-preview:free
 
 - inclusionai/ling-3.0-flash-fin:free
@@ -262,7 +268,7 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-lightning:free
 
-- stealth/union-alpha
+- qwen/qwen3.8-27b:free
 
 - thinkingmachines/inkling-small:free
 
@@ -572,6 +578,8 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 - qwen3.5-397b-a17b
 
 - qwen3.6-35b-a3b
+
+- qwen3.8-27b
 
 
 
