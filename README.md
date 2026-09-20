@@ -102,8 +102,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [Poolside Laguna XS 2.1](https://openrouter.ai/poolside/laguna-xs-2.1:free)
 
-- [deepseek/deepseek-v4-flash-0731:free](https://openrouter.ai/deepseek/deepseek-v4-flash-0731:free)
-
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [inclusionai/ling-3.0-flash-fin:free](https://openrouter.ai/inclusionai/ling-3.0-flash-fin:free)
@@ -249,8 +247,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - Poolside Laguna XS 2.1
 
 - StepFun Step 3.7 Flash
-
-- deepseek/deepseek-v4-flash-0731:free
 
 - dots-studio/dots-3-note-preview:free
 

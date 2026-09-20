@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:54:54.370533Z",
+  "generated_at": "2026-09-20T04:12:13.812609Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -80,15 +80,6 @@
         {
           "id": "poolside/laguna-xs-2.1:free",
           "name": "Poolside Laguna XS 2.1",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "deepseek/deepseek-v4-flash-0731:free",
-          "name": "deepseek/deepseek-v4-flash-0731:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -298,11 +289,6 @@
         {
           "id": "stepfun/step-3.7-flash:free",
           "name": "StepFun Step 3.7 Flash",
-          "intelligence_score": null
-        },
-        {
-          "id": "deepseek/deepseek-v4-flash-0731:free",
-          "name": "deepseek/deepseek-v4-flash-0731:free",
           "intelligence_score": null
         },
         {
