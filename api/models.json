@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T04:10:04.443049Z",
+  "generated_at": "2026-09-22T04:06:07.889166Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -755,24 +755,6 @@
           "id": "canopylabs/orpheus-v1-english",
           "name": "canopylabs/orpheus-v1-english",
           "limits": {},
-          "intelligence_score": null
-        },
-        {
-          "id": "groq/compound",
-          "name": "groq/compound",
-          "limits": {
-            "requests/day": 250,
-            "tokens/minute": 70000
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "groq/compound-mini",
-          "name": "groq/compound-mini",
-          "limits": {
-            "requests/day": 250,
-            "tokens/minute": 70000
-          },
           "intelligence_score": null
         },
         {

@@ -327,10 +327,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 <tr><td>canopylabs/orpheus-v1-english</td><td>—</td></tr>
 
-<tr><td>groq/compound</td><td>250 req/hari<br>70.000 token/menit</td></tr>
-
-<tr><td>groq/compound-mini</td><td>250 req/hari<br>70.000 token/menit</td></tr>
-
 <tr><td>meta-llama/llama-prompt-guard-2-22m</td><td>—</td></tr>
 
 <tr><td>meta-llama/llama-prompt-guard-2-86m</td><td>—</td></tr>
