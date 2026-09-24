@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:02:47.317669Z",
+  "generated_at": "2026-09-24T03:58:07.703660Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -107,15 +107,6 @@
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
           "name": "inclusionai/ling-3.0-flash-sante:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-vl:free",
-          "name": "inclusionai/ling-3.0-flash-vl:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -307,11 +298,6 @@
           "intelligence_score": null
         },
         {
-          "id": "inclusionai/ling-3.0-flash-vl:free",
-          "name": "inclusionai/ling-3.0-flash-vl:free",
-          "intelligence_score": null
-        },
-        {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
           "intelligence_score": null
@@ -334,6 +320,11 @@
         {
           "id": "qwen/qwen3.8-27b:free",
           "name": "qwen/qwen3.8-27b:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "stealth/space-bunny-alpha",
+          "name": "stealth/space-bunny-alpha",
           "intelligence_score": null
         },
         {

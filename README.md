@@ -108,8 +108,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [inclusionai/ling-3.0-flash-sante:free](https://openrouter.ai/inclusionai/ling-3.0-flash-sante:free)
 
-- [inclusionai/ling-3.0-flash-vl:free](https://openrouter.ai/inclusionai/ling-3.0-flash-vl:free)
-
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
 - [nex-agi/nex-n2.5-mini:free](https://openrouter.ai/nex-agi/nex-n2.5-mini:free)
@@ -254,8 +252,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - inclusionai/ling-3.0-flash-sante:free
 
-- inclusionai/ling-3.0-flash-vl:free
-
 - liquid/lfm-2.5-2.6b:free
 
 - nex-agi/nex-n2.5-mini:free
@@ -265,6 +261,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - nvidia/nemotron-3.5-lightning:free
 
 - qwen/qwen3.8-27b:free
+
+- stealth/space-bunny-alpha
 
 - thinkingmachines/inkling-small:free
 
