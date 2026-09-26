@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T04:13:19.452818Z",
+  "generated_at": "2026-09-26T04:17:07.846031Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -123,24 +123,6 @@
           "intelligence_score": null
         },
         {
-          "id": "nex-agi/nex-n2.5-mini:free",
-          "name": "nex-agi/nex-n2.5-mini:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "nex-agi/nex-n2.5-pro:free",
-          "name": "nex-agi/nex-n2.5-pro:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
           "limits": {
@@ -170,15 +152,6 @@
         {
           "id": "thinkingmachines/inkling:free",
           "name": "thinkingmachines/inkling:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "z-ai/glm-5.2:free",
-          "name": "z-ai/glm-5.2:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -303,16 +276,6 @@
           "intelligence_score": null
         },
         {
-          "id": "nex-agi/nex-n2.5-mini:free",
-          "name": "nex-agi/nex-n2.5-mini:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "nex-agi/nex-n2.5-pro:free",
-          "name": "nex-agi/nex-n2.5-pro:free",
-          "intelligence_score": null
-        },
-        {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
           "intelligence_score": null
@@ -330,11 +293,6 @@
         {
           "id": "thinkingmachines/inkling-small:free",
           "name": "thinkingmachines/inkling-small:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "z-ai/glm-5.2:free",
-          "name": "z-ai/glm-5.2:free",
           "intelligence_score": null
         }
       ]

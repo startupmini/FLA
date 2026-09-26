@@ -110,10 +110,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
-- [nex-agi/nex-n2.5-mini:free](https://openrouter.ai/nex-agi/nex-n2.5-mini:free)
-
-- [nex-agi/nex-n2.5-pro:free](https://openrouter.ai/nex-agi/nex-n2.5-pro:free)
-
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
 - [qwen/qwen3.8-27b:free](https://openrouter.ai/qwen/qwen3.8-27b:free)
@@ -121,8 +117,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
-
-- [z-ai/glm-5.2:free](https://openrouter.ai/z-ai/glm-5.2:free)
 
 
 
@@ -254,10 +248,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - liquid/lfm-2.5-2.6b:free
 
-- nex-agi/nex-n2.5-mini:free
-
-- nex-agi/nex-n2.5-pro:free
-
 - nvidia/nemotron-3.5-lightning:free
 
 - qwen/qwen3.8-27b:free
@@ -265,8 +255,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - stealth/space-bunny-alpha
 
 - thinkingmachines/inkling-small:free
-
-- z-ai/glm-5.2:free
 
 
 
