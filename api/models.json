@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T04:34:40.315790Z",
+  "generated_at": "2026-09-29T05:02:36.694317Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -89,15 +89,6 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-fin:free",
-          "name": "inclusionai/ling-3.0-flash-fin:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -258,11 +249,6 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-fin:free",
-          "name": "inclusionai/ling-3.0-flash-fin:free",
           "intelligence_score": null
         },
         {
