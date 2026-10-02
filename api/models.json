@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:02:12.895909Z",
+  "generated_at": "2026-10-02T04:52:36.275771Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -80,6 +80,15 @@
         {
           "id": "poolside/laguna-xs-2.1:free",
           "name": "Poolside Laguna XS 2.1",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "apodex/apodex-1.1-mini:free",
+          "name": "apodex/apodex-1.1-mini:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -176,11 +185,6 @@
           "intelligence_score": null
         },
         {
-          "id": "MiniMax-M2.7",
-          "name": "MiniMax M2.7",
-          "intelligence_score": null
-        },
-        {
           "id": "MiniMax-M3",
           "name": "MiniMax-M3",
           "intelligence_score": null
@@ -244,6 +248,11 @@
         {
           "id": "stepfun/step-3.7-flash:free",
           "name": "StepFun Step 3.7 Flash",
+          "intelligence_score": null
+        },
+        {
+          "id": "apodex/apodex-1.1-mini:free",
+          "name": "apodex/apodex-1.1-mini:free",
           "intelligence_score": null
         },
         {

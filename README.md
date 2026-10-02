@@ -102,6 +102,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [Poolside Laguna XS 2.1](https://openrouter.ai/poolside/laguna-xs-2.1:free)
 
+- [apodex/apodex-1.1-mini:free](https://openrouter.ai/apodex/apodex-1.1-mini:free)
+
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [inclusionai/ling-3.0-flash-sante:free](https://openrouter.ai/inclusionai/ling-3.0-flash-sante:free)
@@ -237,6 +239,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - Poolside Laguna XS 2.1
 
 - StepFun Step 3.7 Flash
+
+- apodex/apodex-1.1-mini:free
 
 - dots-studio/dots-3-note-preview:free
 
@@ -504,8 +508,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 - Gemma 4 31B Instruct
 
 - Llama 3.3 70B Instruct
-
-- MiniMax M2.7
 
 - MiniMax-M3
 
