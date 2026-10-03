@@ -246,6 +246,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - inclusionai/ling-3.0-flash-sante:free
 
+- inclusionai/ling-3.1-flash
+
 - liquid/lfm-2.5-2.6b:free
 
 - nvidia/nemotron-3.5-lightning:free

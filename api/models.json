@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T04:52:36.275771Z",
+  "generated_at": "2026-10-03T04:35:07.440983Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -263,6 +263,11 @@
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
           "name": "inclusionai/ling-3.0-flash-sante:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "inclusionai/ling-3.1-flash",
+          "name": "inclusionai/ling-3.1-flash",
           "intelligence_score": null
         },
         {
