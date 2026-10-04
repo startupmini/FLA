@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:35:07.440983Z",
+  "generated_at": "2026-10-04T05:05:33.795855Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -739,10 +739,7 @@
         {
           "id": "openai/gpt-oss-safeguard-20b",
           "name": "openai/gpt-oss-safeguard-20b",
-          "limits": {
-            "requests/day": 1000,
-            "tokens/minute": 8000
-          },
+          "limits": {},
           "intelligence_score": null
         },
         {
