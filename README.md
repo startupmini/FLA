@@ -323,7 +323,7 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 <tr><td>openai/gpt-oss-20b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
 
-<tr><td>openai/gpt-oss-safeguard-20b</td><td>—</td></tr>
+<tr><td>openai/gpt-oss-safeguard-20b</td><td>1.000 req/hari<br>2.000 token/menit</td></tr>
 
 <tr><td>qwen/qwen3.8-27b</td><td>1.000 req/hari<br>8.000 token/menit</td></tr>
 
