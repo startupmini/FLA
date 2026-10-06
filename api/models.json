@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T04:51:43.298689Z",
+  "generated_at": "2026-10-06T05:39:00.998443Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -125,15 +125,6 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "qwen/qwen3.8-27b:free",
-          "name": "qwen/qwen3.8-27b:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -278,16 +269,6 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "qwen/qwen3.8-27b:free",
-          "name": "qwen/qwen3.8-27b:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "stealth/space-bunny-alpha",
-          "name": "stealth/space-bunny-alpha",
           "intelligence_score": null
         },
         {
