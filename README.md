@@ -238,8 +238,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - StepFun Step 3.7 Flash
 
-- apodex/apodex-1.1-mini:free
-
 - dots-studio/dots-3-note-preview:free
 
 - inclusionai/ling-3.0-flash-sante:free

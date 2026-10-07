@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:39:00.998443Z",
+  "generated_at": "2026-10-07T05:09:29.441221Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -239,11 +239,6 @@
         {
           "id": "stepfun/step-3.7-flash:free",
           "name": "StepFun Step 3.7 Flash",
-          "intelligence_score": null
-        },
-        {
-          "id": "apodex/apodex-1.1-mini:free",
-          "name": "apodex/apodex-1.1-mini:free",
           "intelligence_score": null
         },
         {
