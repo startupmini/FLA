@@ -106,8 +106,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
-- [inclusionai/ling-3.0-flash-sante:free](https://openrouter.ai/inclusionai/ling-3.0-flash-sante:free)
-
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
@@ -236,17 +234,17 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - Poolside Laguna XS 2.1
 
-- StepFun Step 3.7 Flash
-
 - dots-studio/dots-3-note-preview:free
-
-- inclusionai/ling-3.0-flash-sante:free
 
 - inclusionai/ling-3.1-flash
 
 - liquid/lfm-2.5-2.6b:free
 
 - nvidia/nemotron-3.5-lightning:free
+
+- stealth/glyph-cluster
+
+- stepfun/step-5-preview-free
 
 - thinkingmachines/inkling-small:free
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:19:53.962182Z",
+  "generated_at": "2026-10-09T05:23:24.061552Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -98,15 +98,6 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-sante:free",
-          "name": "inclusionai/ling-3.0-flash-sante:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -237,18 +228,8 @@
           "intelligence_score": null
         },
         {
-          "id": "stepfun/step-3.7-flash:free",
-          "name": "StepFun Step 3.7 Flash",
-          "intelligence_score": null
-        },
-        {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-sante:free",
-          "name": "inclusionai/ling-3.0-flash-sante:free",
           "intelligence_score": null
         },
         {
@@ -264,6 +245,16 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "stealth/glyph-cluster",
+          "name": "stealth/glyph-cluster",
+          "intelligence_score": null
+        },
+        {
+          "id": "stepfun/step-5-preview-free",
+          "name": "stepfun/step-5-preview-free",
           "intelligence_score": null
         },
         {
