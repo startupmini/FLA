@@ -529,9 +529,15 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 - deepseek-v4-flash-0731
 
+- deepseek-v4.1-flash
+
 - gemma-4-26b-a4b-it
 
 - glm-5.2
+
+- glm-5.3
+
+- lightonocr-3-0.8b
 
 - mistral-medium-3.5-128b
 

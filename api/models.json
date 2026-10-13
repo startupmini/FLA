@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:11:25.128107Z",
+  "generated_at": "2026-10-13T06:10:28.557500Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -299,6 +299,11 @@
           "intelligence_score": null
         },
         {
+          "id": "deepseek-v4.1-flash",
+          "name": "deepseek-v4.1-flash",
+          "intelligence_score": null
+        },
+        {
           "id": "gemma-4-26b-a4b-it",
           "name": "gemma-4-26b-a4b-it",
           "intelligence_score": null
@@ -306,6 +311,16 @@
         {
           "id": "glm-5.2",
           "name": "glm-5.2",
+          "intelligence_score": null
+        },
+        {
+          "id": "glm-5.3",
+          "name": "glm-5.3",
+          "intelligence_score": null
+        },
+        {
+          "id": "lightonocr-3-0.8b",
+          "name": "lightonocr-3-0.8b",
           "intelligence_score": null
         },
         {
