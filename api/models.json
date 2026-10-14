@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:10:28.557500Z",
+  "generated_at": "2026-10-14T04:13:07.309251Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -80,15 +80,6 @@
         {
           "id": "poolside/laguna-xs-2.1:free",
           "name": "Poolside Laguna XS 2.1",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "apodex/apodex-1.1-mini:free",
-          "name": "apodex/apodex-1.1-mini:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -230,11 +221,6 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.1-flash",
-          "name": "inclusionai/ling-3.1-flash",
           "intelligence_score": null
         },
         {
