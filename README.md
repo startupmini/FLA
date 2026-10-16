@@ -108,6 +108,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
+- [nvidia/nemotron-3.5-super-vl:free](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free)
+
 - [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
@@ -238,9 +240,9 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-lightning:free
 
-- stealth/glyph-cluster
+- nvidia/nemotron-3.5-super-vl:free
 
-- stepfun/step-5-preview-free
+- stealth/glyph-cluster
 
 - thinkingmachines/inkling-small:free
 

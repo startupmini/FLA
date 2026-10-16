@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:55:50.215350Z",
+  "generated_at": "2026-10-16T03:51:48.673330Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -107,6 +107,15 @@
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
           "name": "nvidia/nemotron-3.5-lightning:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "nvidia/nemotron-3.5-super-vl:free",
+          "name": "nvidia/nemotron-3.5-super-vl:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -234,13 +243,13 @@
           "intelligence_score": null
         },
         {
-          "id": "stealth/glyph-cluster",
-          "name": "stealth/glyph-cluster",
+          "id": "nvidia/nemotron-3.5-super-vl:free",
+          "name": "nvidia/nemotron-3.5-super-vl:free",
           "intelligence_score": null
         },
         {
-          "id": "stepfun/step-5-preview-free",
-          "name": "stepfun/step-5-preview-free",
+          "id": "stealth/glyph-cluster",
+          "name": "stealth/glyph-cluster",
           "intelligence_score": null
         },
         {
