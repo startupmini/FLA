@@ -114,6 +114,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
 
+- [xingchen-agi/xing4.0-29b-a4b:free](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free)
+
 
 
 ### [Google AI Studio](https://aistudio.google.com)
@@ -242,9 +244,13 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-super-vl:free
 
+- reflection/beam-free
+
 - stealth/glyph-cluster
 
 - thinkingmachines/inkling-small:free
+
+- xingchen-agi/xing4.0-29b-a4b:free
 
 
 

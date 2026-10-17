@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:51:48.673330Z",
+  "generated_at": "2026-10-17T03:41:55.984597Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -139,6 +139,15 @@
             "requests/day": 50
           },
           "intelligence_score": null
+        },
+        {
+          "id": "xingchen-agi/xing4.0-29b-a4b:free",
+          "name": "xingchen-agi/xing4.0-29b-a4b:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
         }
       ]
     },
@@ -248,6 +257,11 @@
           "intelligence_score": null
         },
         {
+          "id": "reflection/beam-free",
+          "name": "reflection/beam-free",
+          "intelligence_score": null
+        },
+        {
           "id": "stealth/glyph-cluster",
           "name": "stealth/glyph-cluster",
           "intelligence_score": null
@@ -255,6 +269,11 @@
         {
           "id": "thinkingmachines/inkling-small:free",
           "name": "thinkingmachines/inkling-small:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "xingchen-agi/xing4.0-29b-a4b:free",
+          "name": "xingchen-agi/xing4.0-29b-a4b:free",
           "intelligence_score": null
         }
       ]
