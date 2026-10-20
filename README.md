@@ -106,6 +106,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
 
+- [minimax/minimax-m3.1-flash:free](https://openrouter.ai/minimax/minimax-m3.1-flash:free)
+
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
 - [nvidia/nemotron-3.5-super-vl:free](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free)
@@ -239,6 +241,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - dots-studio/dots-3-note-preview:free
 
 - liquid/lfm-2.5-2.6b:free
+
+- minimax/minimax-m3.1-flash:free
 
 - nvidia/nemotron-3.5-lightning:free
 
