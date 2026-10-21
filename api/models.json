@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T04:10:24.808192Z",
+  "generated_at": "2026-10-21T03:58:44.555162Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -281,11 +281,6 @@
           "intelligence_score": null
         },
         {
-          "id": "thinkingmachines/inkling-small:free",
-          "name": "thinkingmachines/inkling-small:free",
-          "intelligence_score": null
-        },
-        {
           "id": "xingchen-agi/xing4.0-29b-a4b:free",
           "name": "xingchen-agi/xing4.0-29b-a4b:free",
           "intelligence_score": null
@@ -309,11 +304,6 @@
         {
           "id": "gpt-oss-120b",
           "name": "OpenAI GPT-OSS 120B",
-          "intelligence_score": null
-        },
-        {
-          "id": "pixtral-12b-2409",
-          "name": "Pixtral 12B (2409)",
           "intelligence_score": null
         },
         {
@@ -364,11 +354,6 @@
         {
           "id": "qwen3-235b-a22b-instruct-2507",
           "name": "qwen3-235b-a22b-instruct-2507",
-          "intelligence_score": null
-        },
-        {
-          "id": "qwen3-coder-30b-a3b-instruct",
-          "name": "qwen3-coder-30b-a3b-instruct",
           "intelligence_score": null
         },
         {

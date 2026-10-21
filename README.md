@@ -252,8 +252,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - stealth/glyph-cluster
 
-- thinkingmachines/inkling-small:free
-
 - xingchen-agi/xing4.0-29b-a4b:free
 
 
@@ -531,8 +529,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 - OpenAI GPT-OSS 120B
 
-- Pixtral 12B (2409)
-
 - Whisper Large v3
 
 - deepseek-v4-flash-0731
@@ -552,8 +548,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 - mistral-small-3.2-24b-instruct-2506
 
 - qwen3-235b-a22b-instruct-2507
-
-- qwen3-coder-30b-a3b-instruct
 
 - qwen3-embedding-8b
 
