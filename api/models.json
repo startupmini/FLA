@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:58:44.555162Z",
+  "generated_at": "2026-10-22T03:59:13.477302Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -125,6 +125,15 @@
         {
           "id": "nvidia/nemotron-3.5-super-vl:free",
           "name": "nvidia/nemotron-3.5-super-vl:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "recursive/flint-v1.0:free",
+          "name": "recursive/flint-v1.0:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -268,6 +277,11 @@
         {
           "id": "nvidia/nemotron-3.5-super-vl:free",
           "name": "nvidia/nemotron-3.5-super-vl:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "recursive/flint-v1.0:free",
+          "name": "recursive/flint-v1.0:free",
           "intelligence_score": null
         },
         {

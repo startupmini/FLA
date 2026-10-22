@@ -112,6 +112,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [nvidia/nemotron-3.5-super-vl:free](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free)
 
+- [recursive/flint-v1.0:free](https://openrouter.ai/recursive/flint-v1.0:free)
+
 - [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
 
 - [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
@@ -247,6 +249,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - nvidia/nemotron-3.5-lightning:free
 
 - nvidia/nemotron-3.5-super-vl:free
+
+- recursive/flint-v1.0:free
 
 - reflection/beam-free
 
