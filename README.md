@@ -507,7 +507,7 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 - Llama 3.3 70B Instruct
 
-- MiniMax-M3
+- MiniMax-M3.1-Flash
 
 - OpenAI GPT-OSS 120B
 
