@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:21:16.700455Z",
+  "generated_at": "2026-10-28T04:51:49.331261Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -35,15 +35,6 @@
         {
           "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
           "name": "NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "nvidia/nemotron-3-super-120b-a12b:free",
-          "name": "NVIDIA Nemotron 3 Super 120B A12B",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -213,11 +204,6 @@
         {
           "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
           "name": "NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)",
-          "intelligence_score": null
-        },
-        {
-          "id": "nvidia/nemotron-3-super-120b-a12b:free",
-          "name": "NVIDIA Nemotron 3 Super 120B A12B",
           "intelligence_score": null
         },
         {

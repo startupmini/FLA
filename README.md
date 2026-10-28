@@ -92,8 +92,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)](https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free)
 
-- [NVIDIA Nemotron 3 Super 120B A12B](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free)
-
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
 - [NVIDIA Nemotron 3.5 Content Safety](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free)
@@ -225,8 +223,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - Kilo Auto Free (Router)
 
 - NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)
-
-- NVIDIA Nemotron 3 Super 120B A12B
 
 - NVIDIA Nemotron 3 Ultra 550B A55B
 
