@@ -529,7 +529,7 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 - deepseek-v4-flash-0731
 
-- deepseek-v4.1-flash
+- deepseek-v4.1-flash-1017
 
 - gemma-4-26b-a4b-it
 

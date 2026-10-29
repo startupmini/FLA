@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:51:49.331261Z",
+  "generated_at": "2026-10-29T05:01:51.043510Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -303,8 +303,8 @@
           "intelligence_score": null
         },
         {
-          "id": "deepseek-v4.1-flash",
-          "name": "deepseek-v4.1-flash",
+          "id": "deepseek-v4.1-flash-1017",
+          "name": "deepseek-v4.1-flash-1017",
           "intelligence_score": null
         },
         {
