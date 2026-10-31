@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:01:20.605216Z",
+  "generated_at": "2026-10-31T04:49:16.437572Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -234,6 +234,11 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "inclusionai/ling-3.1-flash-1019-free",
+          "name": "inclusionai/ling-3.1-flash-1019-free",
           "intelligence_score": null
         },
         {
